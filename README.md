@@ -22,7 +22,7 @@ FireVolt Green is built around a mobile combustion chamber that processes agricu
 
 The system is partially controlled using microcontrollers. You can view the core Arduino logic here:
 
-👉 [Firevoltgren.ino](./Firevoltgren.ino)
+👉 [Firevoltgreen.ino](./Firevoltgreen.ino)
 
 ## 🚀 Future Scope
 
